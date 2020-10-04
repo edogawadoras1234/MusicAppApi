@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MusicAppWithAPI</string>
+    <string name="music">Music</string>
+    <string name="image_descreption">Image Descreption</string>
+    <string name="time_start">00:00:00</string>
+    <string name="time_total">00:00:00</string>
+    <string name="song_title">Song Title</string>
+    <string name="song_author">Song Author</string>
+</resources>
